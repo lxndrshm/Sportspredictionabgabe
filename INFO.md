@@ -1,25 +1,26 @@
-# replace this text with your title (it will be automatically copied and used for the online visualization)
+# Soccer Match Prediction with ML
 
 ## description:
-replace this text with description (short description, not more than 200 characters)
+This project used a machine learning approach to predict the result of soccer matches across the globe, while trying to beat the 538-Elo Baseline model.
 
 
 ### participants:
-replace this text with the name and surnames of all the students who participated
+Dirk Stulgies, Leif Schillhorn, Alexander Suhm
 
 
 ### contact information:
-replace this text with the contact information: a mail or a place to find information
+check out https://fivethirtyeight.com/
 
 ### course:
-replace this text with the name of the course, please copy it from the website
+Deep Learning from Scratch
 
 
 ### semester:
-replace this text with semester and year in the form "SoSe2021" or "WiSe2122" (SoSe only have one year, WiSe always has 2 years, so just two numbers per year)
+WiSe2122
 
 ### data:
-replace this text with short information about the data? was it personal, available online, from a company?
+Match Data from https://fivethirtyeight.com/
+Market Value Data from https://transfermarkt.de/
 
 ### website:
-does your project have a website/webapp? otherwise the project folder will link only to the code (if you add a website there will be two links)
+-
