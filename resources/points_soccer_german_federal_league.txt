@@ -1,0 +1,140 @@
+season	rank	club	points
+2015	1	Bayern Munich	88
+2015	2	Borussia Dortmund	78
+2015	3	Bayer Leverkusen	60
+2015	4	Borussia Monchengladbach	55
+2015	5	Schalke 04	52
+2015	6	Mainz	50
+2015	7	Hertha Berlin	50
+2015	8	VfL Wolfsburg	45
+2015	9	FC Cologne	43
+2015	10	Hamburg SV	41
+2015	11	FC Ingolstadt 04	40
+2015	12	FC Augsburg	38
+2015	13	Werder Bremen	38
+2015	14	SV Darmstadt 98	38
+2015	15	TSG Hoffenheim	37
+2015	16	Eintracht Frankfurt	36
+2015	17	VfB Stuttgart	33
+2015	18	Hannover 96	25
+2015	19	SC Freiburg	0
+2015	20	RB Leipzig	0
+2016	1	Bayern Munich	82
+2016	2	RB Leipzig	67
+2016	3	Borussia Dortmund	64
+2016	4	TSG Hoffenheim	62
+2016	5	FC Cologne	49
+2016	6	Hertha Berlin	49
+2016	7	SC Freiburg	48
+2016	8	Werder Bremen	45
+2016	9	Borussia Monchengladbach	45
+2016	10	Schalke 04	43
+2016	11	Eintracht Frankfurt	42
+2016	12	Bayer Leverkusen	41
+2016	13	FC Augsburg	38
+2016	14	Hamburg SV	38
+2016	15	Mainz	37
+2016	16	VfL Wolfsburg	37
+2016	17	FC Ingolstadt 04	32
+2016	18	SV Darmstadt 98	25
+2016	19	VfB Stuttgart	0
+2016	20	Hannover 96	0
+2017	1	Bayern Munich	84
+2017	2	Schalke 04	63
+2017	3	TSG Hoffenheim	55
+2017	4	Borussia Dortmund	55
+2017	5	Bayer Leverkusen	55
+2017	6	RB Leipzig	53
+2017	7	VfB Stuttgart	51
+2017	8	Eintracht Frankfurt	49
+2017	9	Borussia Monchengladbach	47
+2017	10	Hertha Berlin	43
+2017	11	Werder Bremen	42
+2017	12	FC Augsburg	41
+2017	13	Hannover 96	39
+2017	14	Mainz	36
+2017	15	SC Freiburg	36
+2017	16	VfL Wolfsburg	33
+2017	17	Hamburg SV	31
+2017	18	FC Cologne	22
+2017	19	Fortuna Düsseldorf	0
+2017	20	1. FC Nürnberg	0
+2018	1	Bayern Munich	78
+2018	2	Borussia Dortmund	76
+2018	3	RB Leipzig	66
+2018	4	Bayer Leverkusen	58
+2018	5	Borussia Monchengladbach	55
+2018	6	VfL Wolfsburg	55
+2018	7	Eintracht Frankfurt	54
+2018	8	Werder Bremen	53
+2018	9	TSG Hoffenheim	51
+2018	10	Fortuna Düsseldorf	44
+2018	11	Hertha Berlin	43
+2018	12	Mainz	43
+2018	13	SC Freiburg	36
+2018	14	Schalke 04	33
+2018	15	FC Augsburg	32
+2018	16	VfB Stuttgart	28
+2018	17	Hannover 96	21
+2018	18	1. FC Nürnberg	19
+2018	19	FC Cologne	0
+2018	20	SC Paderborn	0
+2018	21	1. FC Union Berlin	0
+2019	1	Bayern Munich	82
+2019	2	Borussia Dortmund	69
+2019	3	RB Leipzig	66
+2019	4	Borussia Monchengladbach	65
+2019	5	Bayer Leverkusen	63
+2019	6	TSG Hoffenheim	52
+2019	7	VfL Wolfsburg	49
+2019	8	SC Freiburg	48
+2019	9	Eintracht Frankfurt	45
+2019	10	Hertha Berlin	41
+2019	11	1. FC Union Berlin	41
+2019	12	Schalke 04	39
+2019	13	Mainz	37
+2019	14	FC Cologne	36
+2019	15	FC Augsburg	36
+2019	16	Werder Bremen	31
+2019	17	Fortuna Düsseldorf	30
+2019	18	SC Paderborn	20
+2019	19	Arminia Bielefeld	0
+2019	20	VfB Stuttgart	0
+2020	1	Bayern Munich	78
+2020	2	RB Leipzig	65
+2020	3	Borussia Dortmund	64
+2020	4	VfL Wolfsburg	61
+2020	5	Eintracht Frankfurt	60
+2020	6	Bayer Leverkusen	52
+2020	7	1. FC Union Berlin	50
+2020	8	Borussia Monchengladbach	49
+2020	9	VfB Stuttgart	45
+2020	10	SC Freiburg	45
+2020	11	TSG Hoffenheim	43
+2020	12	Mainz	39
+2020	13	FC Augsburg	36
+2020	14	Hertha Berlin	35
+2020	15	Arminia Bielefeld	35
+2020	16	FC Cologne	33
+2020	17	Werder Bremen	31
+2020	18	Schalke 04	16
+2020	19	VfL Bochum	0
+2020	20	SpVgg Greuther Fürth	0
+2021	1	Bayern Munich	43
+2021	2	Borussia Dortmund	34
+2021	3	SC Freiburg	29
+2021	4	Bayer Leverkusen	28
+2021	5	TSG Hoffenheim	28
+2021	6	Eintracht Frankfurt	27
+2021	7	1. FC Union Berlin	27
+2021	8	FC Cologne	25
+2021	9	Mainz	24
+2021	10	RB Leipzig	22
+2021	11	Hertha Berlin	21
+2021	12	VfL Bochum	20
+2021	13	VfL Wolfsburg	20
+2021	14	Borussia Monchengladbach	19
+2021	15	FC Augsburg	18
+2021	16	VfB Stuttgart	17
+2021	17	Arminia Bielefeld	16
+2021	18	SpVgg Greuther Fürth	5
