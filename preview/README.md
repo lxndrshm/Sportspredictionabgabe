@@ -1,1 +1,1 @@
-replace placeholder.png with your image
+preview image
